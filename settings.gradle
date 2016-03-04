@@ -1,0 +1,4 @@
+include ':app'
+include ':youTubeAndroidAPIDemo'
+include ':Phone:youTubeAndroidAPIDemo'
+project(':Phone:youTubeAndroidAPIDemo').projectDir=new File('/home/manny/AndroidProject/Phone/youTubeAPIDemo')

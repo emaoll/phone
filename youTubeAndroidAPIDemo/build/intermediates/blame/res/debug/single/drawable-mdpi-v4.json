@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/manny/AndroidProject/Phone/youTubeAndroidAPIDemo/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_thumbnail.png",
+        "source": "/home/manny/AndroidProject/Phone/youTubeAndroidAPIDemo/src/main/res/drawable-mdpi/loading_thumbnail.png"
+    },
+    {
+        "merged": "/home/manny/AndroidProject/Phone/youTubeAndroidAPIDemo/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_thumbnail.png",
+        "source": "/home/manny/AndroidProject/Phone/youTubeAndroidAPIDemo/src/main/res/drawable-mdpi/no_thumbnail.png"
+    }
+]
